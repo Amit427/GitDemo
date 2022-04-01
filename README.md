@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amit427
-- 👀 I’m interested in HTML CSS JAVA SCIPT PHP
+- 👀 I’m interested in HTML CSS JAVA-SCIPT PHP
 - 🌱 I’m currently learning ...HTML 
 - 💞️ I’m looking to collaborate on ...Project to learn new skills
 - 📫 How to reach me ...my mail on Kumarboy427@gmail.com/or on instagram Aksmart427
