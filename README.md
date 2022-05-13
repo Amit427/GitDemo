@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amit427
-- 👀 I’m interested in HTML CSS JAVA-SCIPT
-- 🌱 I’m currently learning ...HTML 
+- 👀 I’m interested in HTML CSS JAVA-Srcypt
+- 🌱 I’m currently learning ...JavaScrypt
 - 💞️ I’m looking to collaborate on ...Project to learn new skills
 - 📫 How to reach me ...my mail on Kumarboy427@gmail.com/or on instagram Aksmart427
 
